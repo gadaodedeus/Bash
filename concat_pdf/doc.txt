@@ -1,0 +1,3 @@
+to run
+
+bash concat_pdf.sh arg1 arg2 .. argn output.pdf
